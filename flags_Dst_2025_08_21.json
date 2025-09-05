@@ -1,0 +1,1365 @@
+{
+    "174985804285": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-01-01 13:00:00",
+        "endtime": "2024-01-02 00:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 14:58:16.234715",
+        "flagversion": "2.0"
+    },
+    "184233170861": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-01-03 13:25:31",
+        "endtime": "2024-01-04 09:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:00:16.850753",
+        "flagversion": "2.0"
+    },
+    "179724393461": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-02-10 15:55:33",
+        "endtime": "2024-02-12 22:28:26",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:12:03.528570",
+        "flagversion": "2.0"
+    },
+    "137390872744": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-02-24 15:00:07",
+        "endtime": "2024-02-25 21:42:32",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:19:25.131694",
+        "flagversion": "2.0"
+    },
+    "330581296572": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-03-03 09:00:00",
+        "endtime": "2024-03-07 09:35:57",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:27:22.121574",
+        "flagversion": "2.0"
+    },
+    "208362192413": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-03-18 13:00:00",
+        "endtime": "2024-03-20 21:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:30:53.155942",
+        "flagversion": "2.0"
+    },
+    "644310194174": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-03-21 01:00:00",
+        "endtime": "2024-03-30 22:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "complex event according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:33:53.478709",
+        "flagversion": "2.0"
+    },
+    "163098315131": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-04-13 23:50:00",
+        "endtime": "2024-04-18 22:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:39:07.558999",
+        "flagversion": "2.0"
+    },
+    "460624380965": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-04-19 05:00:00",
+        "endtime": "2024-04-20 22:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:40:42.987287",
+        "flagversion": "2.0"
+    },
+    "150135041369": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-04-30 11:00:00",
+        "endtime": "2024-05-04 11:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "complex event according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "d",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:44:44.622823",
+        "flagversion": "2.0"
+    },
+    "624436575844": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-04-30 11:00:00",
+        "endtime": "2024-05-01 21:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-21 15:52:04.359370",
+        "flagversion": "2.0"
+    },
+    "327629206046": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-05-02 08:00:00",
+        "endtime": "2024-05-04 22:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "020",
+        "label": "ssc geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:09:08.700682",
+        "flagversion": "2.0"
+    },
+    "145912774171": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-05-05 10:48:00",
+        "endtime": "2024-05-07 06:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:14:02.938761",
+        "flagversion": "2.0"
+    },
+    "296654415064": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-05-10 15:00:00",
+        "endtime": "2024-05-12 18:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:19:58.352324",
+        "flagversion": "2.0"
+    },
+    "477400955601": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-05-16 04:00:00",
+        "endtime": "2024-05-17 08:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:23:59.025297",
+        "flagversion": "2.0"
+    },
+    "274421505256": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-05-17 12:00:00",
+        "endtime": "2024-05-18 14:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:25:21.812027",
+        "flagversion": "2.0"
+    },
+    "937813656036": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-06-10 16:00:00",
+        "endtime": "2024-06-12 00:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:29:42.831628",
+        "flagversion": "2.0"
+    },
+    "226610235679": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-06-27 03:00:00",
+        "endtime": "2024-06-30 06:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:33:57.830779",
+        "flagversion": "2.0"
+    },
+    "308197576426": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-07-26 02:00:00",
+        "endtime": "2024-07-27 00:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:38:35.709221",
+        "flagversion": "2.0"
+    },
+    "187105071118": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-07-29 23:00:00",
+        "endtime": "2024-07-31 03:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:40:12.540666",
+        "flagversion": "2.0"
+    },
+    "475482118953": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-07-31 13:00:00",
+        "endtime": "2024-08-01 18:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:42:28.493667",
+        "flagversion": "2.0"
+    },
+    "204452106307": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-08-03 17:00:00",
+        "endtime": "2024-08-07 00:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:45:34.314067",
+        "flagversion": "2.0"
+    },
+    "955660048900": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-08-11 16:00:00",
+        "endtime": "2024-08-14 19:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:49:36.732545",
+        "flagversion": "2.0"
+    },
+    "205215090278": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-08-17 16:00:00",
+        "endtime": "2024-08-18 08:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:51:22.181257",
+        "flagversion": "2.0"
+    },
+    "152132911305": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-08-27 07:00:00",
+        "endtime": "2024-08-29 09:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:54:03.908213",
+        "flagversion": "2.0"
+    },
+    "167660558897": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-08-30 07:00:00",
+        "endtime": "2024-09-01 09:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:55:38.008008",
+        "flagversion": "2.0"
+    },
+    "191441069228": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-09-12 03:00:00",
+        "endtime": "2024-09-14 16:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:58:43.294017",
+        "flagversion": "2.0"
+    },
+    "199202072769": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-09-16 20:00:00",
+        "endtime": "2024-09-18 13:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 09:59:46.816160",
+        "flagversion": "2.0"
+    },
+    "256376682236": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-09-24 22:00:00",
+        "endtime": "2024-09-25 13:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "d",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:33:00.745732",
+        "flagversion": "2.0"
+    },
+    "962813756900": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-09-23 22:00:00",
+        "endtime": "2024-09-24 20:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "d",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:30:37.805810",
+        "flagversion": "2.0"
+    },
+    "114699623310": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-09-23 10:00:00",
+        "endtime": "2024-09-26 21:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "complex event according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:36:24.683904",
+        "flagversion": "2.0"
+    },
+    "308955992788": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-10-06 04:00:00",
+        "endtime": "2024-10-09 23:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:40:07.900486",
+        "flagversion": "2.0"
+    },
+    "203038335533": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-10-10 14:00:00",
+        "endtime": "2024-10-13 08:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:41:17.365502",
+        "flagversion": "2.0"
+    },
+    "218797751490": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-28 04:00:00",
+        "endtime": "2024-11-28 21:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "090",
+        "label": "unknown disturbance",
+        "comment": "possible geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:50:26.781295",
+        "flagversion": "2.0"
+    },
+    "335832219207": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-01 20:00:00",
+        "endtime": "2024-11-03 07:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:58:06.250836",
+        "flagversion": "2.0"
+    },
+    "304738327117": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-03 16:00:00",
+        "endtime": "2024-11-04 20:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 10:59:07.583585",
+        "flagversion": "2.0"
+    },
+    "149617263315": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-08 03:00:00",
+        "endtime": "2024-11-11 06:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:01:47.158773",
+        "flagversion": "2.0"
+    },
+    "117824117319": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-13 19:00:00",
+        "endtime": "2024-11-15 13:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:04:27.416363",
+        "flagversion": "2.0"
+    },
+    "236104450658": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-22 05:00:00",
+        "endtime": "2024-11-23 06:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:07:25.223326",
+        "flagversion": "2.0"
+    },
+    "295335701573": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-29 02:38:30",
+        "endtime": "2024-11-30 08:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:09:35.105477",
+        "flagversion": "2.0"
+    },
+    "299060856296": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-11-29 23:00:00",
+        "endtime": "2024-11-30 09:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:10:59.235968",
+        "flagversion": "2.0"
+    },
+    "987201696131": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-03 01:00:00",
+        "endtime": "2024-12-03 13:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:13:19.973841",
+        "flagversion": "2.0"
+    },
+    "514305500665": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-03 14:00:00",
+        "endtime": "2024-12-04 03:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:14:08.952095",
+        "flagversion": "2.0"
+    },
+    "323177903471": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-09 04:00:00",
+        "endtime": "2024-12-10 01:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:16:10.129852",
+        "flagversion": "2.0"
+    },
+    "226971122511": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-14 07:00:00",
+        "endtime": "2024-12-15 06:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:18:17.656385",
+        "flagversion": "2.0"
+    },
+    "134652132998": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-15 23:45:00",
+        "endtime": "2024-12-18 23:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "complex event according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:20:26.514807",
+        "flagversion": "2.0"
+    },
+    "139222852881": {
+        "sensorid": "LEMI025_22_0004",
+        "starttime": "2024-12-20 11:00:00",
+        "endtime": "2024-12-20 22:59:59",
+        "components": [
+            "x",
+            "y",
+            "z"
+        ],
+        "flagtype": 4,
+        "labelid": "021",
+        "label": "geomagnetic storm",
+        "comment": "geomagnetic storm according to dst",
+        "groups": {
+            "magnetism": [
+                "x",
+                "y",
+                "z",
+                "f"
+            ]
+        },
+        "probabilities": null,
+        "stationid": "WIC",
+        "validity": "d",
+        "operator": "Marina",
+        "color": "",
+        "modificationtime": "2025-08-22 11:22:32.872414",
+        "flagversion": "2.0"
+    }
+}
